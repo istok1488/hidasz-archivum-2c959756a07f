@@ -1,0 +1,23 @@
+{
+  "status": "PARTIAL_OR_FAILED",
+  "root": "/storage/emulated/0",
+  "files_seen": 101042,
+  "files_selected": 42187,
+  "files_archived": 42187,
+  "bytes_archived": 26875846138,
+  "issues": [
+    {
+      "path": "/storage/emulated/0/Android/data",
+      "reason": "[Errno 13] Permission denied: '/storage/emulated/0/Android/data'"
+    },
+    {
+      "path": "/storage/emulated/0/Android/obb",
+      "reason": "[Errno 13] Permission denied: '/storage/emulated/0/Android/obb'"
+    }
+  ],
+  "scope": "Projektjelölő nevű mappák teljes tartalma; jelölőnevű vagy szövegesen felismerhető fájlok.",
+  "NO_OVERWRITE": true,
+  "FAILED_RUNS_ARE_DATA": true,
+  "NETWORK_USED": false,
+  "GITHUB_UPLOAD_DONE": false
+}
